@@ -72,7 +72,7 @@ Before you begin, make sure you have the following:
   - Practice problems on [MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
 - **Day 13**: Eigenvalues and Eigenvectors
   - Understand eigenvalues and eigenvectors
-  - Watch [3Blue1Brown's Essence of Linear Algebra series](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MIZDIzcOa8JQKyFpnwI)
+  - Watch [3Blue1Brown's Essence of Linear Algebra series]([https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MIZDIzcOa8JQKyFpnwI](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab))
 - **Day 14**: Applications of Linear Algebra
   - Explore applications of linear algebra in AI
   - Implement linear algebra concepts in Python
