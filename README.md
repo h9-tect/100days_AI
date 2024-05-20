@@ -37,13 +37,13 @@ Before you begin, make sure you have the following:
 - **Day 3**: Python Basics - Part 1
   - Learn Python syntax and basic programming concepts
   - [Python for Beginners](https://www.learnpython.org/)
-  - Complete basic exercises on [HackerRank Python](https://www.hackerrank.com/domains/tutorials/10-days-of-python)
+  - Complete basic exercises on [HackerRank Python]([https://www.hackerrank.com/domains/tutorials/10-days-of-python](https://www.hackerrank.com/domains/python))
 - **Day 4**: Python Basics - Part 2
   - Continue learning Python basics: loops, functions, and data structures
   - Write small programs to solidify your understanding
 - **Day 5**: Python Basics - Part 3
   - Practice with Python modules and libraries
-  - Complete more exercises on [HackerRank Python](https://www.hackerrank.com/domains/tutorials/10-days-of-python)
+  - Complete more exercises on [HackerRank Python]([https://www.hackerrank.com/domains/tutorials/10-days-of-python](https://www.hackerrank.com/domains/python))
 - **Day 6**: Introduction to NumPy
   - Learn NumPy for numerical computing
   - Follow [NumPy Quickstart Tutorial](https://numpy.org/doc/stable/user/quickstart.html)
