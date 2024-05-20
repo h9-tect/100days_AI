@@ -98,7 +98,7 @@ Before you begin, make sure you have the following:
 ### Days 21-30: Introduction to Machine Learning
 - **Day 21**: Introduction to Machine Learning
   - Learn about supervised and unsupervised learning
-  - Watch introductory videos on [YouTube](https://www.youtube.com/)
+  - Watch introductory videos on [Sebastian Raschka]([https://www.youtube.com](https://www.youtube.com/watch?v=OgK8JFjkSto&list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3)/)
 - **Day 22**: Linear Regression
   - Understand linear regression and its applications
   - [Andrew Ng's ML Course](https://www.coursera.org/learn/machine-learning)
@@ -147,7 +147,7 @@ Before you begin, make sure you have the following:
   - Watch [Deep Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/deep-learning)
 - **Day 36**: Introduction to TensorFlow
   - Learn about TensorFlow and its features
-  - [TensorFlow Documentation](https://www.tensorflow.org/tutorials)
+  - [TensorFlow Documentation](https://www.tensorflow.org/tutorials) or [PyTorch](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html)
 - **Day 37**: Building Models with TensorFlow
   - Build and train neural network models using TensorFlow
   - Complete tutorials and exercises
