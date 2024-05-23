@@ -1,4 +1,5 @@
 # 100 Days in AI: From Beginner to Advanced
+![100 Days in AI Challenge](ai.wepg)
 
 Welcome to the 100 Days in AI journey! This roadmap will guide you through a comprehensive learning path, from the basics to advanced concepts in Artificial Intelligence.
 
