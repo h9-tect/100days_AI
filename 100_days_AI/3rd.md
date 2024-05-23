@@ -88,7 +88,7 @@ if age > 18:
     - Writing your first Python program.
   - Module 2: Basic Syntax and Data Types
     - Understanding variables, data types, and basic operations.
-### Course Details (Continued):
+### Course Details:
 
   - Module 3: Control Flow
     - Writing if-else statements, loops, and understanding logical conditions.
