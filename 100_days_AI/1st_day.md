@@ -45,8 +45,8 @@ Welcome to Day 1 of your 100-day AI learning journey! Today, you will be introdu
   - [History of Artificial Intelligence](https://en.wikipedia.org/wiki/History_of_artificial_intelligence)
   - [AI Applications in Healthcare](https://builtin.com/artificial-intelligence/artificial-intelligence-healthcare)
   - [AI Applications in Finance](https://emerj.com/ai-sector-overviews/ai-in-finance/)
-  - [AI Applications in Retail](https://www.forbes.com/sites/forbestechcouncil/2021/02/09/11-examples-of-artificial-intelligence-in-retail/?sh=5e3242f929a7)
-  - [AI Applications in Autonomous Vehicles](https://builtin.com/artificial-intelligence/ai-autonomous-vehicles)
+  - [AI Applications in Retail](https://retalon.com/blog/ai-in-the-retail-market-shaping-an-industry-examples-use-cases)
+  - [AI Applications in Autonomous Vehicles](https://www.embedded.com/the-role-of-artificial-intelligence-in-autonomous-vehicles/)
 
 - **Videos**:
   - [What is Artificial Intelligence?](https://www.youtube.com/watch?v=2ePf9rue1Ao)
