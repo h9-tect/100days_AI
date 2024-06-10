@@ -118,7 +118,7 @@ print(grouped)
       - Create bar plots, histograms, and pie charts to visualize your findings and make the analysis more interpretable.
 ```python
 # Loading the Netflix dataset
-url = 'https://raw.githubusercontent.com/shivam2298/netflix-shows/master/netflix_titles.csv'
+url = 'https://raw.githubusercontent.com/prasertcbs/basic-dataset/master/netflix_titles.csv'
 netflix_df = pd.read_csv(url)
 
 # Data cleaning and preprocessing
